@@ -1,0 +1,6 @@
+/* Importações de arquivos e fontes */
+@import 'reset.css';
+
+body{
+    background-color: aquamarine;
+}
