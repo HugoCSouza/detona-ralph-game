@@ -18,6 +18,10 @@ Foram adicionadas as seguintes features para melhorar o jogo:
 * Mudança no estilo básico do CSS deixando mais amigável
 * Um leve toque de humor
 
+## Resultado
+
+Caso interesse ver em funcionamento, foi utilizado a ferramenta [GitHub Pages](https://hugocsouza.github.io/detona-ralph-game/).
+
 ### :white_check_mark: Status do Projeto
 
 **Este projeto está concluído e está arquivado.**
