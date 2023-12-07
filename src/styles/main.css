@@ -14,7 +14,13 @@ body{
     flex-direction: column;
     width: 100%;
     height: 100vh;
-    background-image: url("../images/wall.png");
+    background-color: #c0c0c0;
+    background-image:   linear-gradient(335deg, #bb000065 23px, transparent 23px),
+                        linear-gradient(155deg, #dd000065 23px, transparent 23px),
+                        linear-gradient(335deg, #bb000065 23px, transparent 23px),
+                        linear-gradient(155deg, #dd000065 23px, transparent 23px);
+    background-size: 58px 58px;
+    background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
 }
 
 .menu{
@@ -40,7 +46,11 @@ body{
     height: 150px;
     width: 150px;
     border: 1px solid #003780;
-    background-color: #809097;
+    background-color:#def;
+    background-image:   radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%),
+                        radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%);
+    background-size:80px 80px;
+    background-position:0 0, 40px 40px;
 }
 
 .enemy{
@@ -57,4 +67,6 @@ body{
 .menu-time h2:nth-child(2), 
 .menu-score h2:nth-child(2){
     margin-top: 10px;
+    color: #e5e905;
 }
+
