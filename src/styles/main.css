@@ -24,7 +24,7 @@ body{
 
     height: 90px;
     width: 100%;
-    background-color: #8a2be2;
+    background: linear-gradient(rgba(138, 119, 119, 0.9), rgb(166, 214, 235), rgba(173, 146, 146, 0.6));
 
     border-bottom: 5px solid #a0522d;
 }
@@ -40,7 +40,7 @@ body{
     height: 150px;
     width: 150px;
     border: 1px solid #003780;
-    background-color: #dddcdb;
+    background-color: #809097;
 }
 
 .enemy{
